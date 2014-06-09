@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AutoReply</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="away_messages">
+        <item>I am driving, I will reply soon</item>
+        <item>I am asleep, I will reply when I wake up</item>
+        <item>I am in a meeting, I will reply when I get out</item>
+        <item>I am busy, I will reply soon</item>
+        <item>I am in class, I will respond when I get out</item>
+    </string-array>
+
+    <string name="title_activity_add_option">AddOptionActivity</string>
+    <string name="title_activity_scheduler">Scheduler</string>
+
+</resources>
